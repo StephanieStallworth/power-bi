@@ -5,7 +5,7 @@
 2. Course Introduction 
 3. Meet Maven Analytics 
 4. Course Structure & Outline 
-5. Download: Course Resources  ^f4d428
+5. Download: Course Resources 
 6. Introducing the Course Project  
 7. Setting Expectations  
 
